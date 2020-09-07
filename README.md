@@ -1,7 +1,9 @@
 
 
 <h2>Hey 👋, I'm <a href="https://mazarafa.github.io/">Rafinha</a></h2>
-<p>I'm currently a software engineer <strong><a href="https://aws.amazon.com/">@aws</a></strong> based in 🌁 Seattle. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
+<p>Atualmente sou acadêmica do Curso de Ciência da Computação na Universidade Federal da Fronteira Sul, campus Chapecó.            
+    Desenvolvedora web e Mobile, pythonista e integrador de tecnologia 🎯.
+</p>
 <p>
     <a href="https://mazarafa.github.io/"><img src="https://img.shields.io/badge/-mazarafa.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://mazarafa.github.io/" alt="Website Badge"></a> 
     <a href="https://medium.com/@mazarafa"><img src="https://img.shields.io/badge/-@mazarafa-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/mazarafa" alt="Medium Badge"></a> 
